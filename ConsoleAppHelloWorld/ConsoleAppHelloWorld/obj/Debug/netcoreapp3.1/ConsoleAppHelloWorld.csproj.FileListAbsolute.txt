@@ -1,0 +1,11 @@
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.exe
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.deps.json
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.runtimeconfig.json
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.runtimeconfig.dev.json
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.dll
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.pdb
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.csprojAssemblyReference.cache
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.AssemblyInfoInputs.cache
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.AssemblyInfo.cs
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.dll
+D:\C#\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.pdb
